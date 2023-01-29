@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "tc_fe",
   "version": "0.1.0",
   "private": true,
@@ -34,5 +35,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0"
+>>>>>>> 80f6f47 (sign in/up controller)
   }
 }
